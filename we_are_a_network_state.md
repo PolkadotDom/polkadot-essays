@@ -1,0 +1,1 @@
+Polkadot is a network state and I'm tired of acting like it's not.
