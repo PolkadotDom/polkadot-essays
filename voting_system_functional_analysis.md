@@ -1,4 +1,4 @@
-It had occurred to me while working on [RFC 150](https://github.com/polkadot-fellows/RFCs/pull/150) and [RFC 151](https://github.com/polkadot-fellows/RFCs/pull/151) that there are several properties of our voting system ([read OpenGov](https://polkadot.subsquare.io/referenda)) which are vast improvements upon current analog deployments. I have not yet seen these discussed or promulgated, and thought the community may enjoy pondering on them. There is no action item, simply meant to be an appreciation of the elegant and powerful system we have built.
+It had occurred to me while working on [RFC 150](https://github.com/polkadot-fellows/RFCs/pull/150) and [RFC 151](https://github.com/polkadot-fellows/RFCs/pull/151) that there are several properties of our voting system ([read OpenGov](https://polkadot.subsquare.io/referenda)) which are vast improvements upon current analog deployments. I have not yet seen these discussed or promulgated, and thought the community may benefit from some alignment here.
 
 ### Arbitrary Closeness of Approximation
 In OpenGov, one can either vote directly or delegate their vote. For instance, if I do not enjoy keeping up with policy, it may be worth it for me to delegate, even if that delegate only represents me accurately 85% of the time. Whereas if that remaining 15% matters greatly to me, I can always just vote directly. This guarantees our voters an arbitrary closeness of approximation to their true political will. From 0% accuracy, I don't care at all, to 100%, I'd never let anyone vote for me.
@@ -18,4 +18,4 @@ Polkadot again organizes itself towards whichever concentration of power is nece
 ### Scale
 But perhaps most important is that we can now do all this at a global scale. It is not impossible to achieve all the aforementioned properties using analog counterparts. It is, however, infeasible to scale the logistics of them beyond a small population size. Polkadot's biggest achievement is unlocking these properties, for the first time, at a global level for a single community.
 
-I hope you have found something in here you haven't previously considered. We've really built something glorious!
+I hope you have found something in here you haven't previously considered. We've really built something glorious.
